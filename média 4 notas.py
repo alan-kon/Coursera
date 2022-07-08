@@ -1,0 +1,10 @@
+nota1=input("Digite a primeira nota: ")
+nota2=input("Digite a segunda nota: ")
+nota3=input("Digite a terceira nota: ")
+nota4=input("Digite a quarta nota: ")
+nota11=float(nota1)
+nota22=float(nota2)
+nota33=float(nota3)
+nota44=float(nota4)
+média=(nota11+nota22+nota33+nota44)/4
+print("A média aritmética é", média)
